@@ -46,8 +46,8 @@ for (let i = 0; i < 5; i++) {
 
 for (let i = 0; i <= 15; i++) {
     //console.log(i)
-    if (i % 2 != 0) console.log("oneven getal: ", i);
-    if (i % 2 == 0) console.log("even getal: ", i);
+    if (i % 2 !== 0) console.log("oneven getal: ", i);
+    if (i % 2 === 0) console.log("even getal: ", i);
 }
 
 
