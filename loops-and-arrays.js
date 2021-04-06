@@ -7,7 +7,7 @@
 const names = ["Henk", "Piet", "Fred", "Joop"];
 //console.log(names + "je")
 for (let i = 0; i < names.length; i++) {
-    console.log(names[i] + "je")
+    console.log(names[i] + "je");
 }
 
 // Verwachtte uitkomsten:
@@ -25,7 +25,7 @@ for (let i = 0; i < names.length; i++) {
 
 const numbers = [2, 4, 5, 29, 38];
 for (let i = 0; i < numbers.length; i++) {
-    console.log(numbers[i] * 3)
+    console.log(numbers[i] * 3);
 }
 
 // Verwachtte uitkomsten:
